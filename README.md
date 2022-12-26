@@ -1,4 +1,4 @@
-## Olá!!! Eu sou a Júlia Budavicicius 👋
+## Olá!!! Eu sou a Júlia Budavicius 👋
 
 - 💻 Sou formanda em Análise e Desenvolvimento de Sistemas
 - 🔭 Hoje estou trabalhando com gestão e análise de dados
