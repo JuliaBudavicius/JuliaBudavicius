@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou a Júlia Budavicicius 👋
 
-- 💻 Sou formanda em Análise e Desenvolvimento de Sitemas
+- 💻 Sou formanda em Análise e Desenvolvimento de Sistemas
 - 🔭 Hoje estou trabalhando com gestão e análise de dados
 - 🌱 Atualmente estudo sobre ferramentas de monitoramento, como Grafana e Zabbix
 
